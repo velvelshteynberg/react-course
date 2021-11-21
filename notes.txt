@@ -1,0 +1,2 @@
+run npm start to open react onto browser
+Html in js is called jsx
